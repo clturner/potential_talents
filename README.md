@@ -6,17 +6,17 @@ This project is designed to analyze and rank potential talent candidates for hum
 ```plaintext
 potential_talents
 ├── data
-│   ├── potential-talents - Aspiring human resources - seeking human resources.csv            # Raw dataset
-│   ├── potential-talents - Aspiring human resources - seeking human resources - appended.csv # Appended dataset
+│   ├── potential-talents - Aspiring human resources - seeking human resources.csv            
+│   ├── potential-talents - Aspiring human resources - seeking human resources - appended.csv
 ├── notebooks
-│   ├── data_exploration.ipynb    # Notebook for exploring the dataset
-│   └── rank_candidates.ipynb     # Notebook for ranking candidates
+│   ├── data_exploration.ipynb        # Notebook for exploring the dataset
+│   └── rank_candidates.ipynb         # Notebook for ranking candidates
 ├── src
-│   ├── init.py               # Initializes the source package
-│   ├── utils.py                  # Utility functions
+│   ├── init.py                       # Initializes the source package
+│   ├── utils.py                      # Utility functions
 │   ├── feature_engineering_utils.py  # Feature engineering utilities
-│   └── prediction_evaluation.py  # Prediction and evaluation logic
-├── requirements.txt              # Project dependencies
+│   └── prediction_evaluation.py      # Prediction and evaluation logic
+├── requirements.txt                  # Project dependencies
 |── README.md
 ```
 
