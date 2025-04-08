@@ -1,4 +1,4 @@
-# Potential Talents Project
+# Potential Talents
 
 This project is designed to analyze and rank potential talent candidates for human resources roles based on provided data. It includes data exploration, feature engineering, and candidate ranking functionalities.
 
